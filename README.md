@@ -77,8 +77,8 @@ Client-server chat applications are foundational to real-time communication over
  # CLIENT :
 
  ```
-NAME : Mohamed Hameem Sajith J
-REG NO : 212223240090
+NAME : Sanjay K
+REG NO : 212223220094
 
 import socket
 
@@ -110,8 +110,8 @@ if __name__ == '__main__':
 # SERVER :
 
 ```
-NAME : Mohamed Hameem Sajith J
-REG NO : 212223240090
+NAME : Sanjay K
+REG NO : 212223220094
 
 import socket
 def server_program():
