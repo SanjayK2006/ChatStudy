@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+### Name: Sanjay K
+### Reg No: 212223220094
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
